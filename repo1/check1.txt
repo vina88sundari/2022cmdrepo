@@ -2,3 +2,5 @@ File 1 to be checked
 
 one 
 two
+three 
+four
